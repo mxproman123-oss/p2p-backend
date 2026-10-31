@@ -1,0 +1,6 @@
+flask
+flask-cors
+flask-sqlalchemy
+gunicorn
+requests
+psycopg2-binary>=2.9.10
